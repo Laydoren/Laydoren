@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Herman</h1>
 <h3 align="center">A passionate programmer, who is still learning :)</h3>
 
-- 🔭 I’m currently working on **My HW**
+- 🔭 I’m currently working on [My HW](https://github.com/Laydoren/UniHW)
 
 - 🌱 I’m currently learning **C++, Python, Java**
 
